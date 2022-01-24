@@ -1,4 +1,4 @@
-# SuperHERO-LTG
+# APIs SuperHERO-LTG
 
 <h1>APIs SuperHERO</h1>
 <hr>
