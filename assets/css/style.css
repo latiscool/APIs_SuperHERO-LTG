@@ -1,0 +1,60 @@
+.fila1,
+.fila2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: auto;
+}
+
+h6 {
+  padding-left: 1.5rem;
+}
+
+.titulo-conexion,
+.list-group-item {
+  font-size: small;
+}
+
+#card-conexiones,
+#card-publicado,
+#card-ocupacion,
+#card-aparicion,
+#card-altura,
+#card-peso,
+#card-alianza {
+  font-size: smaller;
+}
+
+@media screen and (max-width: 600px) {
+  #image-principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: auto;
+    max-width: 30rem;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  #image-principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: auto;
+    max-width: 20rem;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  #image-principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: auto;
+    max-width: 15rem;
+  }
+}
+
+#mensaje-error {
+  color: #ff0000;
+}
