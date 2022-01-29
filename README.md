@@ -15,6 +15,6 @@
   
  
   <p>Ver Publicado</p>
-  <a href="https://latiscool.github.io/SuperHERO-LTG/">Desafio SuperHERO</a> : Version 0<br>
+  <a href="https://latiscool.github.io/APIs_SuperHERO-LTG/">Desafio SuperHERO</a> : Version 0<br>
   Luis Torre G. 2022
 
